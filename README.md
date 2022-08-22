@@ -1,2 +1,2 @@
 # PythonFunction
-Used for Hands-on Lab Practices and PBT Exams
+Used for Hands-on OCI Lab Practices and PBT Exams

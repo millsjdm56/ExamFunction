@@ -1,2 +1,2 @@
-# ExamFunction
-Used for Oracle PGT Exam
+# PythonFunction
+Used for Hands-on Lab Practices and PBT Exams
